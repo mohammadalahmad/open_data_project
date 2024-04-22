@@ -1,0 +1,1375 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "museen.1",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-17491, 234402]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Alpmuseum uf m Tannberg",
+          "url": "https://museenvorarlberg.at/museum.php?s=alpmuseum-uf-m-tannberg-schrocken",
+          "ort": "Schröcken",
+          "adresse": "Alpe Batzen",
+          "adresslist": null,
+          "rechtswert": -17491,
+          "hochwert": 234402
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.2",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-27995.38, 257671.52]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Alpsennereimuseum Hittisau",
+          "url": "https://museenvorarlberg.at/museum.php?s=alpsennereimuseum-hittisau/",
+          "ort": "Hittisau",
+          "adresse": "Platz 343",
+          "adresslist": "hittisauplatz343",
+          "rechtswert": -27995.38,
+          "hochwert": 257671.52
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.3",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-32359.93, 217216.76]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Museum Frühmesshaus Bartholomäberg",
+          "url": "https://museenvorarlberg.at/museum.php?s=museum-fruhmesshaus-bartholomaberg",
+          "ort": "Bartholomäberg",
+          "adresse": "Dorf 11",
+          "adresslist": "bartholomaebergdorf11",
+          "rechtswert": -32359.93,
+          "hochwert": 217216.76
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.4",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-36367.83, 253113.15]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Angelika Kauffmann-Museum Schwarzenberg",
+          "url": "https://museenvorarlberg.at/museum.php?s=angelika-kauffmann-museum-schwarzenberg/",
+          "ort": "Schwarzenberg",
+          "adresse": "Brand 34",
+          "adresslist": "schwarzenbergbrand34",
+          "rechtswert": -36367.83,
+          "hochwert": 253113.15
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.5",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-48622.88, 247491.15]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Elisabeth-Schwarzkopf-Museum Hohenems",
+          "url": "https://museenvorarlberg.at/museum.php?s=elisabeth-schwarzkopf-museum-hohenems/",
+          "ort": "Hohenems",
+          "adresse": "Schweizer Straße 1",
+          "adresslist": "hohenemsschweizerstrasse1",
+          "rechtswert": -48622.88,
+          "hochwert": 247491.15
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.6",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-32975.29, 254856.94]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "EGG Museum",
+          "url": "https://museenvorarlberg.at/museum.php?s=egg-museum/",
+          "ort": "Egg",
+          "adresse": "Pfarrhof 5",
+          "adresslist": "eggpfarrhof5",
+          "rechtswert": -32975.29,
+          "hochwert": 254856.94
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.7",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-23959.11, 241531.88]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Felder Museum",
+          "url": "https://museenvorarlberg.at/museum.php?s=felder-museum-schoppernau/",
+          "ort": "Schoppernau",
+          "adresse": "Unterdorf 2b",
+          "adresslist": "schoppernauunterdorf2b",
+          "rechtswert": -23959.11,
+          "hochwert": 241531.88
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.8",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-48390, 260292]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Museum des Feuerwehr-Oldtimer-Vereins Hard",
+          "url": "https://museenvorarlberg.at/museum.php?s=museum-des-feuerwehr-oldtimer-vereins-hard",
+          "ort": "Hard",
+          "adresse": "Bommenweg 1",
+          "adresslist": "hardbommenweg1",
+          "rechtswert": -48390,
+          "hochwert": 260292
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.9",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-56071.01, 233348.83]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Finanz- und zollgeschichtliche Sammlung Finanzlandesdirektion",
+          "url": "https://museenvorarlberg.at/museum.php?s=finanz-und-zollgeschichtliche-sammlung-feldkirch/",
+          "ort": "Feldkirch",
+          "adresse": "Schillerstraße 2",
+          "adresslist": "feldkirchschillerstrasse2",
+          "rechtswert": -56071.01,
+          "hochwert": 233348.83
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.10",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-44561.26, 252697]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "FLATZ Museum Dornbirn",
+          "url": "https://museenvorarlberg.at/museum.php?s=flatz-museum-dornbirn/",
+          "ort": "Dornbirn",
+          "adresse": "Marktstraße 33",
+          "adresslist": "dornbirnmarktstrasse33",
+          "rechtswert": -44561.26,
+          "hochwert": 252697
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.11",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-48622.88, 247491.15]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Schubertiade Quartier Hohenems",
+          "url": "https://museenvorarlberg.at/museum.php?s=schubertiade-quartier-hohenems",
+          "ort": "Hohenems",
+          "adresse": "Schweizer Straße 1",
+          "adresslist": "hohenemsschweizerstrasse1",
+          "rechtswert": -48622.88,
+          "hochwert": 247491.15
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.12",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-28032.31, 257584.35]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Frauenmuseum Hittisau",
+          "url": "https://museenvorarlberg.at/museum.php?s=frauenmuseum-hittisau/",
+          "ort": "Hittisau",
+          "adresse": "Platz 501",
+          "adresslist": "hittisauplatz501",
+          "rechtswert": -28032.31,
+          "hochwert": 257584.35
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.13",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-54604, 238993]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Freilichtmuseum Villa Rustica Rankweil",
+          "url": "https://museenvorarlberg.at/museum.php?s=freilichtmuseum-villa-rustica-rankweil/",
+          "ort": "Rankweil",
+          "adresse": "Brederis- nähe Sportplatz",
+          "adresslist": null,
+          "rechtswert": -54604,
+          "hochwert": 238993
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.14",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-28092.37, 257735.56]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Hittisauer Lebensbilder",
+          "url": "https://museenvorarlberg.at/museum.php?s=hittisauer-lebensbilder",
+          "ort": "Hittisau",
+          "adresse": "Platz 189",
+          "adresslist": "hittisauplatz189",
+          "rechtswert": -28092.37,
+          "hochwert": 257735.56
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.15",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-42306.08, 256669.1]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Heimathaus Denkmalhof Linzenberg Schwarzach",
+          "url": "https://museenvorarlberg.at/museum.php?s=heimathaus-denkmalhof-linzenberg-schwarzach/",
+          "ort": "Schwarzach",
+          "adresse": "Linzenberg 129",
+          "adresslist": "schwarzachlinzenberg129",
+          "rechtswert": -42306.08,
+          "hochwert": 256669.1
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.16",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-33002.13, 248923.71]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Heimatmuseum Bezau",
+          "url": "https://museenvorarlberg.at/museum.php?s=heimatmuseum-bezau",
+          "ort": "Bezau",
+          "adresse": "Ellenbogen 181",
+          "adresslist": "bezauellenbogen181",
+          "rechtswert": -33002.13,
+          "hochwert": 248923.71
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.17",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-33137.9, 233268.56]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Museum Großes Walsertal Sonntag",
+          "url": "https://museenvorarlberg.at/museum.php?s=museum-grosses-walsertal-sonntag",
+          "ort": "Sonntag",
+          "adresse": "Flecken 17",
+          "adresslist": "sonntagflecken17",
+          "rechtswert": -33137.9,
+          "hochwert": 233268.56
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.18",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-37848.12437731, 257025.81484587]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Mesmers Stall Alberschwende",
+          "url": "https://museenvorarlberg.at/museum.php?s=mesmers-stall-alberschwende",
+          "ort": "Alberschwende",
+          "adresse": "Hof 3",
+          "adresslist": "alberschwendehof579",
+          "rechtswert": -38081.17,
+          "hochwert": 257089.44
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.19",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-44885, 252453]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "inatura Dornbirn",
+          "url": "https://museenvorarlberg.at/museum.php?s=inatura-dornbirn",
+          "ort": "Dornbirn",
+          "adresse": "Jahngasse 9",
+          "adresslist": "dornbirnjahngasse9",
+          "rechtswert": -44885,
+          "hochwert": 252453
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.59",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-43742.97688039, 253901.76880395]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Christbaumschmuck Museum Dornbirn",
+          "url": null,
+          "ort": "Dornbirn",
+          "adresse": "Montfortstraße 34",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.20",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-48672.67, 247523.98]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Jüdisches Museum Hohenems",
+          "url": "https://museenvorarlberg.at/museum.php?s=juedisches-museum-hohenems/",
+          "ort": "Hohenems",
+          "adresse": "Schweizerstraße 5",
+          "adresslist": "hohenemsschweizerstrasse5",
+          "rechtswert": -48672.67,
+          "hochwert": 247523.98
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.21",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-27790.57, 263025.52]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Juppenwerkstatt Riefensberg",
+          "url": "https://museenvorarlberg.at/museum.php?s=juppenwerkstatt-riefensberg/",
+          "ort": "Riefensberg",
+          "adresse": "Dorf 52",
+          "adresslist": "riefensbergdorf52",
+          "rechtswert": -27790.57,
+          "hochwert": 263025.52
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.22",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-22935.72, 221366.98]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Klostertalmuseum Wald am Arlberg",
+          "url": "https://museenvorarlberg.at/museum.php?s=klostertalmuseum-wald-am-arlberg/",
+          "ort": "Dalaas",
+          "adresse": "Arlbergstraße 60a",
+          "adresslist": "dalaasoberegasse13",
+          "rechtswert": -22935.72,
+          "hochwert": 221366.98
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.23",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-41973.13, 250293.56]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Krippenmuseum",
+          "url": "https://museenvorarlberg.at/museum.php?s=krippenmuseum_dornbirn/",
+          "ort": "Dornbirn",
+          "adresse": "Gütle 11c",
+          "adresslist": "dornbirnguetle11c",
+          "rechtswert": -41973.13,
+          "hochwert": 250293.56
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.24",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-45527.04, 259618.41]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Kunst im Rohnerhaus",
+          "url": "https://museenvorarlberg.at/museum.php?s=kunst-im-rohnerhaus",
+          "ort": "Lauterach",
+          "adresse": "Kirchstraße 14",
+          "adresslist": "lauterachkirchstrasse14",
+          "rechtswert": -45527.04,
+          "hochwert": 259618.41
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.25",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-44117, 263078]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Kunsthaus Bregenz",
+          "url": "https://museenvorarlberg.at/museum.php?s=kunsthaus-bregenz/",
+          "ort": "Bregenz",
+          "adresse": "Karl-Tizian-Platz 1",
+          "adresslist": "bregenzkarltizianplatz1",
+          "rechtswert": -44117,
+          "hochwert": 263078
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.26",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-44839.17, 252501.1]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Kunstraum Dornbirn",
+          "url": "https://museenvorarlberg.at/museum.php?s=kunstraum-dornbirn",
+          "ort": "Dornbirn",
+          "adresse": "Jahngasse 9",
+          "adresslist": "dornbirnjahngasse9",
+          "rechtswert": -44839.17,
+          "hochwert": 252501.1
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.27",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-26928.22, 217364.45]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Montafoner Bergbaumuseum Silbertal",
+          "url": "https://museenvorarlberg.at/museum.php?s=montafoner-bergbaumuseum-silbertal",
+          "ort": "Silbertal",
+          "adresse": "Dorfstraße 8",
+          "adresslist": "silbertalzentrum256",
+          "rechtswert": -26928.22,
+          "hochwert": 217364.45
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.28",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-31453.54, 215793.48]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Montafoner Heimatmuseum Schruns",
+          "url": "https://museenvorarlberg.at/museum.php?s=montafoner-heimatmuseum-schruns/",
+          "ort": "Schruns",
+          "adresse": "Kirchplatz 15",
+          "adresslist": "schrunskirchplatz15",
+          "rechtswert": -31453.54,
+          "hochwert": 215793.48
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.29",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-55171.13, 243782.25]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Museum Urgeschichte Koblach",
+          "url": "https://museenvorarlberg.at/museum.php?s=museum-urgeschichte-koblach",
+          "ort": "Koblach",
+          "adresse": "Werben 9",
+          "adresslist": "koblachwerben9",
+          "rechtswert": -55171.13,
+          "hochwert": 243782.25
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.30",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-14148.63, 230415.08]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Lechmuseum Huber-Hus",
+          "url": "https://museenvorarlberg.at/museum.php?s=lechmuseum-huber-hus",
+          "ort": "Lech",
+          "adresse": "Dorf 26",
+          "adresslist": "lechdorf26",
+          "rechtswert": -14148.63,
+          "hochwert": 230415.08
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.31",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-38949.77, 224381.39]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Stadtmuseum Bludenz",
+          "url": "https://museenvorarlberg.at/museum.php?s=stadtmuseum-bludenz",
+          "ort": "Bludenz",
+          "adresse": "Kirchgasse 9",
+          "adresslist": "bludenzkirchgasse9",
+          "rechtswert": -38949.77,
+          "hochwert": 224381.39
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.32",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-52956.47, 237729.56]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Museum für Druckgrafik Rankweil",
+          "url": "https://museenvorarlberg.at/museum.php?s=museum-fur-druckgrafik-rankweil",
+          "ort": "Rankweil",
+          "adresse": "Hartmanngasse 15a",
+          "adresslist": "rankweilhartmanngasse15a",
+          "rechtswert": -52956.47,
+          "hochwert": 237729.56
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.33",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-43763.38, 265708.25]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Ortsgeschichte Sammlung Lochau",
+          "url": "https://museenvorarlberg.at/museum.php?s=ortsgeschichte-sammlung-lochau/",
+          "ort": "Lochau",
+          "adresse": "Landstraße 25",
+          "adresslist": "lochaulandstrasse25",
+          "rechtswert": -43763.38,
+          "hochwert": 265708.25
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.34",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-49980.75, 245869.14]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Otten Kunstraum Hohenems",
+          "url": "https://museenvorarlberg.at/museum.php?s=otten-kunstraum-hohenems/",
+          "ort": "Hohenems",
+          "adresse": "Schwefelbadstrasse 2",
+          "adresslist": "hohenemsschwefelbadstrasse2",
+          "rechtswert": -49980.75,
+          "hochwert": 245869.14
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.35",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-42112.6, 223268.02]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Heimatmuseum Paarhof »Buacher« Bürserberg",
+          "url": "https://museenvorarlberg.at/museum.php?s=heimatmuseum-paarhof-%3E%3Ebuacher%3C%3C-burserberg",
+          "ort": "Bürserberg",
+          "adresse": "Matin 17",
+          "adresslist": "buerserbergmatin17",
+          "rechtswert": -42112.6,
+          "hochwert": 223268.02
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.36",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-37786.94, 231743.68]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Puppenmuseum Blons",
+          "url": "https://museenvorarlberg.at/museum.php?s=puppenmuseum-blons/",
+          "ort": "Blons",
+          "adresse": "Blons 17a",
+          "adresslist": "blonsblons17a",
+          "rechtswert": -37786.94,
+          "hochwert": 231743.68
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.37",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-50666, 256786]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Rhein-Schauen Lustenau",
+          "url": "https://museenvorarlberg.at/museum.php?s=rhein-schauen-lustenau/",
+          "ort": "Lustenau",
+          "adresse": "Höchsterstraße 4",
+          "adresslist": null,
+          "rechtswert": -50666,
+          "hochwert": 256786
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.38",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-42044.06411837, 250427.24290999]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Rolls-Royce-Museum Dornbirn",
+          "url": "https://museenvorarlberg.at/museum.php?s=rolls-royce-automobilmuseum-franz-ferdinand-vonier-dornbirn",
+          "ort": "Dornbirn",
+          "adresse": "Gütle 10",
+          "adresslist": "dornbirnguetle11a",
+          "rechtswert": -41976,
+          "hochwert": 250354
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.39",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-55528.2, 233325.82]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Schattenburgmuseum Feldkirch",
+          "url": "https://museenvorarlberg.at/museum.php?s=schattenburgmuseum-feldkirch/",
+          "ort": "Feldkirch",
+          "adresse": "Burggasse 1",
+          "adresslist": "feldkirchburggasse1",
+          "rechtswert": -55528.2,
+          "hochwert": 233325.82
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.40",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-50503.41, 239350.17]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Schmiedemuseum Röthis",
+          "url": "https://museenvorarlberg.at/museum.php?s=schmiedemuseum-roethis/",
+          "ort": "Röthis",
+          "adresse": "Badstraße 8",
+          "adresslist": "roethisbadstrasse8",
+          "rechtswert": -50503.41,
+          "hochwert": 239350.17
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.41",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-43717.18, 259501.48]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Spielzeugmuseum Wolfurt",
+          "url": "https://museenvorarlberg.at/museum.php?s=spielzeugmuseum-wolfurt/",
+          "ort": "Wolfurt",
+          "adresse": "Kirchstraße 45",
+          "adresslist": "wolfurtkirchstrasse45",
+          "rechtswert": -43717.18,
+          "hochwert": 259501.48
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.42",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-44512.5, 252930.92]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Stadtmuseum Dornbirn",
+          "url": "https://museenvorarlberg.at/museum.php?s=stadtmuseum-dornbirn/",
+          "ort": "Dornbirn",
+          "adresse": "Marktplatz 11",
+          "adresslist": "dornbirnmarktplatz11",
+          "rechtswert": -44512.5,
+          "hochwert": 252930.92
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.43",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-50612.74123825, 255498.72409899]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Stickerei - Museum. Archiv. Kommunikation (S-MAK)",
+          "url": "https://museenvorarlberg.at/museum.php?s=stickerei-museum-archiv-kommunikation-s-mak",
+          "ort": "Lustenau",
+          "adresse": "Hofsteigstraße 21",
+          "adresslist": "lustenaupontenstrasse20",
+          "rechtswert": -51133.99,
+          "hochwert": 254838.88
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.44",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-48428.11, 247065.24]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Stoffels Säge-Mühle Hohenems",
+          "url": "https://museenvorarlberg.at/museum.php?s=stoffels-sage-muhle-hohenems",
+          "ort": "Hohenems",
+          "adresse": "Sägerstraße 11",
+          "adresslist": "hohenemssaegerstrasse11",
+          "rechtswert": -48428.11,
+          "hochwert": 247065.24
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.45",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-47430, 260575]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Textildruckmuseum Mittelweiherburg",
+          "url": "https://museenvorarlberg.at/museum.php?s=textildruckmuseum-mittelweiherburg-hard/",
+          "ort": "Hard",
+          "adresse": "Mittelweiherburg 3",
+          "adresslist": null,
+          "rechtswert": -47430,
+          "hochwert": 260575
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.46",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-23282.56, 205375.54]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Montafoner Alpin- und Tourismusmuseum Gaschurn",
+          "url": "https://museenvorarlberg.at/museum.php?s=montafoner-alpin-und-tourismusmuseum-gaschurn",
+          "ort": "Gaschurn",
+          "adresse": "Dorfstraße 9",
+          "adresslist": "gaschurndorfstrasse9",
+          "rechtswert": -23282.56,
+          "hochwert": 205375.54
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.47",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-44163, 263025]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "vorarlberg museum",
+          "url": "https://museenvorarlberg.at/museum.php?s=vorarlberger-landesmuseum-bregenz/",
+          "ort": "Bregenz",
+          "adresse": "Kornmarktplatz 1",
+          "adresslist": "bregenzkornmarktplatz1",
+          "rechtswert": -44163,
+          "hochwert": 263025
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.48",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-43754, 263517]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Vorarlberger Militärmuseum",
+          "url": "https://museenvorarlberg.at/museum.php?s=vorarlberger-militarmuseum",
+          "ort": "Bregenz",
+          "adresse": "Reichsstraße 20",
+          "adresslist": "bregenzreichsstrasse20",
+          "rechtswert": -43754,
+          "hochwert": 263517
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.49",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-53310.71, 231389.62]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Vorarlberger Museumswelt Frastanz",
+          "url": "https://museenvorarlberg.at/museum.php?s=vorarlberger-museumswelt-frastanz/",
+          "ort": "Frastanz",
+          "adresse": "Obere Lände 3b",
+          "adresslist": "frastanzoberelaende3",
+          "rechtswert": -53310.71,
+          "hochwert": 231389.62
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.50",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-13715.9, 231037.5]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Lechmuseum Schausammlung Lech-Tannberg",
+          "url": "https://museenvorarlberg.at/museum.php?s=lechmuseum-schausammlung-lech-tannberg",
+          "ort": "Lech",
+          "adresse": "Strass 515",
+          "adresslist": null,
+          "rechtswert": -13715.9,
+          "hochwert": 231037.5
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.51",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-11072.76, 246593.76]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Walsermuseum Riezlern",
+          "url": "https://museenvorarlberg.at/museum.php?s=walsermuseum-riezlern/",
+          "ort": "Mittelberg",
+          "adresse": "Walserstraße 54",
+          "adresslist": "mittelbergwalserstrasse54",
+          "rechtswert": -11072.76,
+          "hochwert": 246593.76
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.52",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-46159.02, 263045.5]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Zisterzienserabt. Wettingen-Mehrerau",
+          "url": "https://museenvorarlberg.at/museum.php?s=zisterzienserabtei-wettingen-mehrerau-bregenz/",
+          "ort": "Bregenz",
+          "adresse": "Mehrerauerstraße 66",
+          "adresslist": "bregenzmehrerauerstrasse66",
+          "rechtswert": -46159.02,
+          "hochwert": 263045.5
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.53",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-53845.8594328, 246177.42416769]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Alamannen Museumsdorf Mäder",
+          "url": "https://museenvorarlberg.at/museum.php?s=alamannen-museumsdorf-mader",
+          "ort": "Mäder",
+          "adresse": "Ulimahd",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.54",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-48508.02098154, 247054.0200693]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Alte Zeiten Museum Hohenems",
+          "url": "https://museenvorarlberg.at/museum.php?s=alte-zeiten-museum-hohenems",
+          "ort": "Hohenems",
+          "adresse": "Sägerstraße 5",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.55",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-49674.81504316, 248235.92478422]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Arche Noah – Sammlung Kunst & Natur",
+          "url": "https://museenvorarlberg.at/museum.php?s=arche-noah-sammlung-kunst-natur",
+          "ort": "Hohenems",
+          "adresse": "Markus-Sittikus-Straße 20",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.56",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-12543.73982737, 244858.73982737]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Bergschau und Skimuseum Hirschegg",
+          "url": "https://museenvorarlberg.at/museum.php?s=bergschau-und-skimuseum-hirschegg",
+          "ort": "Mittelberg",
+          "adresse": "Walserstrasse 264",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.57",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-49156.18495684, 228208.36991369]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Bienenmuseum Immenhof Nenzing-Beschling",
+          "url": "https://museenvorarlberg.at/museum.php?s=bienenmuseum-immenhof-nenzing-beschling",
+          "ort": "Nenzing",
+          "adresse": "Dorfstraße 5",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.58",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-39359.81504316, 224467]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Brauereimuseum Fohrenburg Bludenz",
+          "url": "https://museenvorarlberg.at/museum.php?s=brauereimuseum-fohrenburg-bludenz",
+          "ort": "Bludenz",
+          "adresse": "Fohrenburgstraße 5",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.60",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-50614.18495684, 255503.2946979]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Druckwerk Lustenau",
+          "url": "https://museenvorarlberg.at/museum.php?s=druckwerk-lustenau",
+          "ort": "Lustenau",
+          "adresse": "Hofsteigstraße 21",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.61",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-33447.18495684, 238013.55487053]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "FIS Skimuseum Kulisse Pfarrhof Damüls",
+          "url": "https://museenvorarlberg.at/museum.php?s=fis-skimuseum-kulisse-pfarrhof-damuls",
+          "ort": "Damüls",
+          "adresse": "Damüls 138",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.62",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-13899.1134402, 232586.78421702]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Lechmuseum Kultur am Wanderweg",
+          "url": "https://museenvorarlberg.at/museum.php?s=lechmuseum-kultur-am-wanderweg",
+          "ort": "Lech",
+          "adresse": "Schöneberg",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.63",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-43978.44512947, 262644.07521578]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Martinsturm Bregenz",
+          "url": "https://museenvorarlberg.at/museum.php?s=martinsturm-bregenz",
+          "ort": "Bregenz",
+          "adresse": "Martinsgasse 3b",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.64",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-56374.01726264, 235351.64734895]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Motorradmuseum Feldkirch",
+          "url": "https://museenvorarlberg.at/museum.php?s=motorradmuseum-feldkirch",
+          "ort": "Feldkirch",
+          "adresse": "Bifangstraße 39",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.65",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-44444.92478422, 252739.55487053]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Museum der Mohren Biererlebniswelt Dornbirn",
+          "url": "https://museenvorarlberg.at/museum.php?s=museum-der-mohren-biererlebniswelt-dornbirn",
+          "ort": "Dornbirn",
+          "adresse": "Dr.-Waibel-Straße 2",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.66",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-50608.63625154, 255501.07521578]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Rauch’s Radiomuseum Lustenau",
+          "url": "https://museenvorarlberg.at/museum.php?s=rauchs-radiomuseum-lustenau",
+          "ort": "Lustenau",
+          "adresse": "Hofsteigstraße 21",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.67",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-11200.36822183, 235555.76847418]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Schulhaus Warth",
+          "url": "https://museenvorarlberg.at/museum.php?s=schulhaus-warth",
+          "ort": "Warth",
+          "adresse": "Warth",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      },
+      {
+        "type": "Feature",
+        "id": "museen.68",
+        "geometry": {
+          "type": "MultiPoint",
+          "coordinates": [
+            [-49531.18495684, 260175.55487053]
+          ]
+        },
+        "geometry_name": "the_geom",
+        "properties": {
+          "name": "Traktor-Oldtimermuseum Hard",
+          "url": "https://museenvorarlberg.at/museum.php?s=traktor-oldtimermuseum-hard",
+          "ort": "Hard",
+          "adresse": "Am Römerstein 8",
+          "adresslist": null,
+          "rechtswert": null,
+          "hochwert": null
+        }
+      }
+    ],
+    "totalFeatures": 68,
+    "numberMatched": 68,
+    "numberReturned": 68,
+    "timeStamp": "2024-04-22T15:41:51.776Z",
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "urn:ogc:def:crs:EPSG::31254"
+      }
+    }
+  }
