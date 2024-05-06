@@ -19,20 +19,42 @@
 
 <body>
   <div id="map"></div>
-
   <script>
-      var map = L.map('map').setView([48.505, 16.09], 13);
+
+      var map = L.map('map').setView([47.34696736, 9.87779935], 10);
       L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 19,
-      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+      maxZoom: 100,
+      attribution: '&copy; <a href="">OpenStreetMap</a>'
       }).addTo(map);
+        <?php 
+         $url1 = "museen_vorarlberg.json";
+         $content1 = file_get_contents($url1);
+         $json1 = json_decode($content1, true);
 
-      var marker = L.marker([48.505, 16.09]).addTo(map);
-      marker.bindPopup("<bUAS Technikum> </b><b>Hello Students!</b>").openPopup();
+         $url2 = "historische_wege_vorarlberg.json";
+         $content2 = file_get_contents($url2);
+         $json2 = json_decode($content2, true);
 
+        for ($i = 0; $i < count($json1["features"]); $i++) { ?> 
+             var marker = L.marker([<?php echo $json1["features"][$i]["geometry"]["coordinates"][0][1] ?>, 
+                                    <?php echo $json1["features"][$i]["geometry"]["coordinates"][0][0] ?>]).addTo(map);
+            marker.bindPopup("<bUAS Technikum> </b><b><?php echo $json1["features"][$i]["properties"]["name"]?>   <br><b>Ort:</b> <?php echo  $json1["features"][$i]["properties"]["ort"] ?>!</b>").openPopup();
+           
+            <?php  } for ($i = 0; $i < count($json2["features"]); $i++) {  ?> 
+            var marker = L.marker([<?php echo $json2["features"][$i]["geometry"]["coordinates"][0][0][1] ?>, 
+                                    <?php echo $json2["features"][$i]["geometry"]["coordinates"][0][0][0] ?>]).addTo(map);
+            
+             marker.bindPopup("<bUAS Technikum> </b><b><?php echo $json2["features"][$i]["id"] ?> <br><b>Type:</b> <?php echo  $json1["features"][$i]["geometry"]["type"] ?> !</b>").openPopup();
+              
+
+           
+        <?php  }  ?> 
 
   </script>
 
+  <?php
+ 
+  ?>
 
 </body>
 </html>
